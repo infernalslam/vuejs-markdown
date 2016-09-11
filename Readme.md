@@ -3,7 +3,7 @@
 
 #### HTML
 ```html
-<script src="https://npmcdn.com/vue/dist/vue.js"></script>
+<script src="https://unpkg.com/vue/dist/vue.js"></script>
 
 <div id="app">
 <p class="title">Css custom</p>
@@ -47,7 +47,7 @@ new Vue({
 
 #### HTML
 ```html
-<script src="https://npmcdn.com/vue/dist/vue.js"></script>
+<script src="https://unpkg.com/vue/dist/vue.js"></script>
 
 <div id="app">
 <h1 class="title"> {{ number }}</h1>
